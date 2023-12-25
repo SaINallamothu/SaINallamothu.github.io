@@ -1,12 +1,35 @@
-header .Header{
+.Header{
     color: rgb(230, 84, 84);
 }
 
-header{
+ul#slide-out{
+    list-style-type: none;
+    
+    background-color: #f1f1f1;
+    width: 25%;
+    height: 100%;
     position: fixed;
-    background-color: azure;
+    overflow: auto;
+    float: left;
     
 }
+
+.bold {
+    padding: 15px;
+    display: block;
+}
+
+#name {
+    font-size: 20px;
+    display: block;
+}
+
+
+
+main{
+    position: static;
+}
+
 
 
 .Nav li {
