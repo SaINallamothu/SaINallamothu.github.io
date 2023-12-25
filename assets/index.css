@@ -1,5 +1,11 @@
-.Header{
+header .Header{
     color: rgb(230, 84, 84);
+}
+
+header{
+    position: fixed;
+    background-color: azure;
+    
 }
 
 
