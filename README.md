@@ -1,1 +1,0 @@
-# SaINallamothu.github.io
