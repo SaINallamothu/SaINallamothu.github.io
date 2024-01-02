@@ -87,7 +87,7 @@ content:
             Working as 3rd Level support engineer and managing customer specific configuration through Database, managing day wise operations of uploads and imports into main frame.
             Data model enhanchement for BI team, Qlik sense apps and sheets developement as per cusotmers request.
 
-       - layout: left
+      - layout: left
         title: Technical University of Deggendorf
         link: https://www.th-deg.de/
         # link_text: boringcompany.com
